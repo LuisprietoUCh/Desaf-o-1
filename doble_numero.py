@@ -1,2 +1,2 @@
-def doble(a):
-    return 2*a
+def doble_cubo(a):
+    return 2*a*a*a
